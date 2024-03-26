@@ -1,0 +1,62 @@
+#profileCard{
+    position: relative;
+    width: 560px;
+    height: 780px;
+    background-color: #EEEBCE;
+
+    border: 10px solid #659E80;
+    border-radius: 8px;
+
+    font-size: 25px;
+    padding: 10px;
+}
+#narutoPic{
+    width: 240px;
+    height: 290px;
+    position: relative;
+    padding: 25px;
+    top: 15px;
+    left: 300px;
+}
+
+#profileCard2{
+    position: relative;
+    width: 560px;
+    height: 780px;
+    background-color: #EEEBCE;
+
+    border: 10px solid #659E80;
+    border-radius: 8px;
+
+    font-size: 25px;
+    padding: 10px;
+}
+#sasukePic{
+    width: 210px;
+    height: 260px;
+    position: relative;
+    padding: 25px;
+    top: 15px;
+    left: 305px;
+}
+
+#profileCard3{
+    position: relative;
+    width: 560px;
+    height: 780px;
+    background-color: #EEEBCE;
+
+    border: 10px solid #659E80;
+    border-radius: 8px;
+
+    font-size: 25px;
+    padding: 10px;
+}
+#gaaraPic{
+    width: 200px;
+    height: 275px;
+    position: relative;
+    padding: 25px;
+    top: 30px;
+    left: 320px;
+}
